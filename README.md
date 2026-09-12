@@ -12,7 +12,7 @@
 ├── index.html
 ├── style.css 
 ├── script.js
-└── server.py
+└── main.py
 
 ```
 
